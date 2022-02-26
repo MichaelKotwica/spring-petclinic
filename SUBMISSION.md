@@ -1,5 +1,8 @@
 # Michael Kotwica
 
+
+
+
 - 1.)
 ![Screen Capture #1](figures/1.jpg)
 
